@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Questions</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+  <link rel="stylesheet" href="styles.css">
+  <link rel="icon" type="image/x-icon" href="Logo_last.png">
+  <script src="./questions.js" defer></script>
+  <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.7.0/dist/confetti.browser.min.js"></script>
+
+</head>
+<style>
+  /* Custom modal width */
+.custom-modal .modal-dialog {
+  width: 80%; /* Adjust the percentage as needed */
+}
+
+</style>
+<body>
+  <audio id="cheers">
+    <source src="cheers.mp3" type="audio/mpeg">
+  </audio>
+  <audio id="points" src="Points.mp3"></audio>
+  <audio id="fail" src="fail.mp3"></audio>
+  <header class="header">
+    <img src="./assests/logo/Logo.png" alt="Logo" class="logo">
+    <span><img src="./assests/logo/header.png" alt="Header" class="header-image"></span>
+  </header>
+  <main class="container">
+    <h1 id="heading" class="text-center" ></h1>
+    <div class="text-center">
+      <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#passageModal">Click here to read the Passage</button>
+    </div>
+    <!-- Modal -->
+<!-- Modal -->
+<div id="passageModal" class="modal fade custom-modal" tabindex="-1" role="dialog" aria-labelledby="passageModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+        <h4 class="modal-title" id="passageModalLabel" style="text-align: center;">Horses</h4>
+      </div>
+      <div class="modal-body">
+        <p>Horses are beautiful creatures. They can be different colours and can run quickly. People like to watch horses because they are strong and powerful. Horses are mammals. Mammals are animals that have hair or fur, are warm-blooded, and usually give birth to live young. The mother horse generally has one baby in the spring and feeds the baby milk. Horses have long legs and big eyes that can see almost all the way around them. They can walk, trot, gallop and jump. Young horses that are one year old or younger are called foals. A young female horse is called a filly, and a young male horse is called a colt. After 4 years, a horse is considered an adult. Many people think that a pony is a young horse, but that is incorrect. A pony is a type of horse that does not grow very large.
+<br>
+          Horses can live up to 20 or 25 years. Sometimes people can tell how old a horse is by looking at its teeth! They generally sleep standing up, so that if a predator approaches, they can run away quickly. Horses only need about three hours of sleep per day! Their hooves need to be taken care of. Horse hooves are like our fingernails, which need to be trimmed. If a horse is doing a lot of walking on hard ground, people put horseshoes on them, then take off the horseshoes when the hooves need trimming. New horseshoes are then put on.
+          <br>
+          For food, horses eat foods such as grass, hay, oats, corn, apples, and carrots. They are herbivores, meaning they do not eat other animals. Their stomachs are small, so they need small, frequent feedings.
+          <br>
+          There are wild horses, but many people have horses as pets, too. They ride the horses and may teach the horses tricks. When people first started to take horses as pets, they were just used for work. The horses would pull carriages so people could ride places, or ploughs so the farmers could more easily tend their fields. Horses were also used to move goods from place to place, by carrying objects on their backs. Some horses now work as therapy horses. These horses help people with disabilities become more calm and comfortable, or work muscles they might not otherwise be able to work. When these strong creatures are treated with care, they make wonderful companions.
+          </p>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+    <div id="buttonContainer" class="text-center"></div>
+    <div class="row maindiv">
+      <div class="col-lg-1 col-md-1 col-sm-1 col-xs-1 numdiv">
+        <p id="numdiv"></p>
+      </div>
+      <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 imgdiv" id="picdiv">
+        <img id="math_ques" src="Math Question.jpg" class="img-responsive">
+      </div>
+      <div id="questiondiv" class="col-lg-7 col-md-7 col-sm-7 col-xs-7">
+        <div id="question"></div>
+        <br>
+        <div class="menu" id="head">
+          <ul id="options"></ul>
+        </div>
+        <button id="subbtn" class="btn btn-success" onclick="checkAnswer()">Submit Answer</button>
+        <button id="nextbtn" class="btn btn-primary" onclick="newques()" style="display:none">Next</button>
+        <p id="result"></p>
+      </div>
+    </div>
+  </main>
+</body>
+</html>

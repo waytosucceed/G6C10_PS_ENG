@@ -1,0 +1,297 @@
+{
+  "heading": "Questions and Answers",
+  "topics": [
+    {
+      "heading": "Horse Facts",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "What is the main theme of this passage?",
+          "options": [
+            "Horse racing techniques",
+            "General information about horses and their characteristics",
+            "The history of horse domestication",
+            "How to care for a pet horse?"
+          ],
+          "answer": 1,
+          "explanation": "The passage provides a broad overview of horses, including their physical characteristics, behaviour, life cycle, and various roles in human society. It doesn't focus specifically on racing, history, or pet care, but rather gives general information about horses."
+        },
+        {
+          "questionNo": 2,
+          "question": "What is the opposite of 'calm' as used in the passage?",
+          "options": [
+            "agitated",
+            "peaceful",
+            "serene",
+            "tranquil"
+          ],
+          "answer": 0,
+          "explanation": "The opposite of 'calm' is 'agitated' or 'excited.' The passage mentions that therapy horses can help people with disabilities become more calm."
+        },
+        {
+          "questionNo": 3,
+          "question": "Horses are ________ animals.",
+          "options": [
+            "cold-blooded",
+            "warm-blooded",
+            "neither cold-blooded nor warm-blooded",
+            "sometimes cold-blooded, sometimes warm-blooded"
+          ],
+          "answer": 1,
+          "explanation": "The passage mentions that mammals, including horses, are warm-blooded animals."
+        },
+        {
+          "questionNo": 4,
+          "question": "The word 'predator' in the passage refers to:",
+          "options": [
+            "a friend of horses",
+            "an animal that horses hunt",
+            "an animal that hunts horses",
+            "a type of horse"
+          ],
+          "answer": 2,
+          "explanation": "In the context of the passage, a predator is an animal that hunts horses, which is why horses sleep standing up to quickly run away if a predator approaches."
+        },
+        {
+          "questionNo": 5,
+          "question": "What is the central theme regarding horses' relationship with humans?",
+          "options": [
+            "Horses are dangerous and should be avoided.",
+            "Horses are purely work animals.",
+            "Horses serve various roles, from work animals to companions and therapy animals."
+          ],
+          "answer": 2,
+          "explanation": "The passage describes how horses have been used for work (pulling carriages and ploughs), as pets, and in therapy roles, highlighting their versatility in human society."
+        },
+        {
+          "questionNo": 6,
+          "question": "A horse's eyes are ________.",
+          "options": [
+            "small",
+            "big",
+            "medium-sized",
+            "tiny"
+          ],
+          "answer": 1,
+          "explanation": "The passage states that horses have big eyes that can see almost all the way around them."
+        },
+        {
+          "questionNo": 7,
+          "question": "In the phrase 'small, frequent feedings,' which word is an adjective?",
+          "options": [
+            "Small",
+            "Frequent",
+            "Feedings",
+            "Both a and b"
+          ],
+          "answer": 3,
+          "explanation": "Both 'small' and 'frequent' are adjectives describing the noun 'feedings.'"
+        },
+        {
+          "questionNo": 8,
+          "question": "What is the opposite of 'wild' as used in the passage?",
+          "options": [
+            "tame",
+            "free",
+            "untamed",
+            "fierce"
+          ],
+          "answer": 0,
+          "explanation": "The opposite of 'wild' is 'tame,' which means domesticated or not wild. The passage contrasts wild horses with horses that people keep as pets."
+        },
+        {
+          "questionNo": 9,
+          "question": "The word 'trimmed' in the passage is closest in meaning to:",
+          "options": [
+            "cut",
+            "painted",
+            "cleaned",
+            "filed"
+          ],
+          "answer": 0,
+          "explanation": "In the context of the passage, 'trimmed' means cut or shortened, referring to the need for horse hooves to be trimmed like human fingernails."
+        },
+        {
+          "questionNo": 10,
+          "question": "The phrase 'tend their fields' in the passage means:",
+          "options": [
+            "to ignore the fields",
+            "to sell the fields",
+            "to take care of the fields",
+            "to destroy the fields"
+          ],
+          "answer": 2,
+          "explanation": "In the passage, 'tend their fields' means to take care of or cultivate the fields, which farmers did with the help of horses pulling ploughs."
+        },
+        {
+          "questionNo": 11,
+          "question": "Which of the following is an adverb in the sentence 'They generally sleep standing up'?",
+          "options": [
+            "They",
+            "Generally",
+            "Sleep",
+            "Standing"
+          ],
+          "answer": 1,
+          "explanation": "Generally is an adverb modifying the verb 'sleep,' indicating how often horses sleep in this position."
+        },
+        {
+          "questionNo": 12,
+          "question": "The word 'disability' in the passage refers to:",
+          "options": [
+            "a special ability",
+            "a physical or mental condition that limits a person's activities",
+            "a type of illness",
+            "a kind of therapy"
+          ],
+          "answer": 1,
+          "explanation": "In the context of the passage, a disability is a physical or mental condition that limits a person's activities, and therapy horses can help people with disabilities become more calm and comfortable."
+        },
+        {
+          "questionNo": 13,
+          "question": "In the phrase 'warm-blooded,' what part of speech is 'warm'?",
+          "options": [
+            "Noun",
+            "Verb",
+            "Adverb",
+            "Adjective"
+          ],
+          "answer": 3,
+          "explanation": "Warm is an adjective describing the type of blood."
+        },
+        {
+          "questionNo": 14,
+          "question": "The word 'plough' in the passage refers to:",
+          "options": [
+            "a type of horse",
+            "a tool used for farming",
+            "a type of carriage",
+            "a kind of horseshoe"
+          ],
+          "answer": 1,
+          "explanation": "In the context of the passage, a plough is a tool used by farmers to tend their fields, which horses would pull to make the work easier."
+        },
+        {
+          "questionNo": 15,
+          "question": "Horses' stomachs are ________, so they need small, frequent feedings.",
+          "options": [
+            "large",
+            "medium-sized",
+            "tiny",
+            "small"
+          ],
+          "answer": 3,
+          "explanation": "The passage mentions that horses' stomachs are small, so they need small, frequent feedings."
+        },
+        {
+          "questionNo": 16,
+          "question": "When people first started to take horses as pets, they were just used for ________.",
+          "options": [
+            "racing",
+            "work",
+            "companionship",
+            "therapy"
+          ],
+          "answer": 1,
+          "explanation": "The passage states that when people first started to take horses as pets, they were just used for work."
+        },
+        {
+          "questionNo": 17,
+          "question": "Horses are ________.",
+          "options": [
+            "reptiles",
+            "mammals",
+            "amphibians",
+            "birds"
+          ],
+          "answer": 1,
+          "explanation": "The passage states that horses are mammals, which are animals that have hair or fur, are warm-blooded and usually give birth to live young."
+        },
+        {
+          "questionNo": 18,
+          "question": "In the sentence \"Horses can live up to 20 or 25 years,\" which word is a noun?",
+          "options": [
+            "Can",
+            "Live",
+            "Up",
+            "Years"
+          ],
+          "answer": 3,
+          "explanation": "Years is a noun, representing a unit of time measurement."
+        },
+        {
+          "questionNo": 19,
+          "question": "Horses have long legs and big eyes that can see ________.",
+          "options": [
+            "only in front of them",
+            "almost all the way around them",
+            "only behind them",
+            "only to the sides"
+          ],
+          "answer": 1,
+          "explanation": "The passage states that horses have long legs and big eyes that can see almost all the way around them."
+        },
+        {
+          "questionNo": 20,
+          "question": "What is a young female horse called?",
+          "options": [
+            "foal",
+            "colt",
+            "filly",
+            "pony"
+          ],
+          "answer": 2,
+          "explanation": "The passage mentions that a young female horse is called a filly."
+        },
+        {
+          "questionNo": 21,
+          "question": "Which adjective is used to describe horses in the first sentence of the passage?",
+          "options": [
+            "Different",
+            "Beautiful",
+            "Quick",
+            "Strong"
+          ],
+          "answer": 1,
+          "explanation": "The first sentence states 'Horses are beautiful creatures,' using 'beautiful' as an adjective to describe horses."
+        },
+        {
+          "questionNo": 22,
+          "question": "A pony is ________.",
+          "options": [
+            "a young horse",
+            "a type of horse that does not grow very large",
+            "a baby horse",
+            "a male horse"
+          ],
+          "answer": 1,
+          "explanation": "The passage clarifies that a pony is not a young horse but a type of horse that does not grow very large."
+        },
+        {
+          "questionNo": 23,
+          "question": "Horses can live up to ________ years.",
+          "options": [
+            "5-10",
+            "10-15",
+            "15-20",
+            "20-25"
+          ],
+          "answer": 3,
+          "explanation": "The passage mentions that horses can live up to 20 or 25 years."
+        },
+        {
+          "questionNo": 24,
+          "question": "Horses generally sleep ________.",
+          "options": [
+            "lying down",
+            "standing up",
+            "sitting",
+            "in a stable"
+          ],
+          "answer": 1,
+          "explanation": "The passage states that horses generally sleep standing up so that if a predator approaches, they can run away quickly."
+        }
+      ]
+    }
+  ]
+}
